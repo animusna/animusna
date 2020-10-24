@@ -9,7 +9,7 @@ cto
 ````
 
 ```
-animus@animusna:~$ ls --softskills
+animus@animusna:~$ ls -1 --softskills
 curiosity
 problem solving
 team work
@@ -18,7 +18,7 @@ resourcefulness
 ````
 
 ```
-animus@animusna:~$ ls --hardskills --languages
+animus@animusna:~$ ls -1 --hardskills --languages
 c#
 python
 javascript
@@ -30,7 +30,7 @@ java
 ```
 
 ```
-animus@animusna:~$ ls --hardskills --frameworks --runtime
+animus@animusna:~$ ls -1 --hardskills --frameworks --runtime
 .net
 .net core
 node.js 
@@ -41,13 +41,13 @@ bootstrap
 ````
 
 ```
-animus@animusna:~$ ls --hardskills --packagemanager 
+animus@animusna:~$ ls -1 --hardskills --packagemanager 
 nuget
 npm
 ````
 
 ```
-animus@animusna:~$ ls --hardskills --devops
+animus@animusna:~$ ls  -1 --hardskills --devops
 github actions
 dependabot
 docker
@@ -56,7 +56,7 @@ ansible
 ```
 
 ```
-animus@animusna:~$ ls --hardskills --dbms --db
+animus@animusna:~$ ls -1 --hardskills --dbms --db
 sql server
 mysql
 sqlite
