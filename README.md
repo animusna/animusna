@@ -1,4 +1,4 @@
-⚡ Welcome and connect to me! ⚡ 
+⚡Hello world!⚡ 
 
 ```
 animus@animusna:~$ whoami
