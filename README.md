@@ -35,6 +35,7 @@ animus@animusna:~$ ls -1 --hardskills --frameworks --runtime
 .net core
 node.js 
 angular
+react
 asp.net mvc
 xamarin
 bootstrap
@@ -56,11 +57,17 @@ ansible
 ```
 
 ```
-animus@animusna:~$ ls -1 --hardskills --dbms --db
+animus@animusna:~$ ls -1 --hardskills --dbms --sql
 sql server
 mysql
 sqlite
+````
+
+```
+animus@animusna:~$ ls -1 --hardskills --dbms --nosql
+mongodb
 realmdb
+redis
 ````
 
 <!--
