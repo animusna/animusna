@@ -34,7 +34,6 @@ animus@animusna:~$ ls -1 --hardskills --frameworks --runtime
 .net
 .net core
 node.js 
-angular
 react
 asp.net mvc
 xamarin
