@@ -33,6 +33,7 @@ java
 animus@animusna:~$ ls -1 --hardskills --frameworks --runtime
 .net
 .net core
+fastapi
 node.js 
 react
 asp.net mvc
