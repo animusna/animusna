@@ -65,6 +65,7 @@ sqlite
 
 ```
 animus@animusna:~$ ls -1 --hardskills --dbms --nosql
+couchdb
 mongodb
 realmdb
 redis
